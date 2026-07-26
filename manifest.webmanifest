@@ -1,0 +1,25 @@
+{
+  "name": "Pensées pour moi-même",
+  "short_name": "Pensées",
+  "description": "Marc Aurèle, texte intégral en 29 séances de lecture quotidienne.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBFBF8",
+  "theme_color": "#FBFBF8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
